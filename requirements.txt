@@ -4,4 +4,4 @@ streamlit
 langchain
 chromadb
 sentence-transformers
-matplotlib
+matplotlib                          
