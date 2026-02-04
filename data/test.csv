@@ -1,0 +1,116 @@
+ID,texte,titre,categorie,urgence,temps_resolution,type_ticket,nb_mots
+7 344,problème d'imprimante de facturation,problème d'imprimante de facturation,Impressions & Scanner/Incident,Basse,4.87,Incident,4
+7 581,reaffectation de la ligne _maskani saliha,reaffectation de la ligne _maskani saliha,Utilitaires/Request,Basse,10.33,Demande,6
+7 256,problèmes de connexion,problèmes de connexion,Bureautique/Incident,Très haute,151.17,Incident,3
+7 489,probléme d'accés odoo,probléme d'accés odoo,Applications,Moyenne,5.95,Incident,3
+7 250,regule créer les projets mycoster sol et tranxene sur citrix,regule créer les projets mycoster sol et tranxene sur citrix,Utilitaires/Request,Basse,1.02,Demande,10
+7 673,peut pas accéder ã la boite mail pour salma haidan peut pas accéder ã la boite mail pour salma haidan,peut pas accéder ã la boite mail pour salma haidan,Bureautique/Incident,Moyenne,5.825,Incident,20
+7 391,demande de changement compte ad sadik fatimaezzahra,demande de changement compte ad sadik fatimaezzahra,Compte AD,Basse,3.92,Demande,7
+7 613,problem born ilaykom pas d'acces,problem born ilaykom pas d'acces,Applications,Basse,14.58,Incident,5
+7 306,demande de donner l'accès partage instruction_de_fabrication_t hamam,demande de donner l'accès partage instruction_de_fabrication_t hamam,Accès au partage,Basse,1.02,Demande,7
+7 111,problème de tablette,problème de tablette,Utilitaires/Incident,Basse,5.1,Incident,3
+7 108,demande d'autoriser l'accès de hajar aux fichiers de partage ci-dessous en lecture et écriture,demande d'autoriser l'accès de hajar aux fichiers de partage ci-dessous en lecture et écriture,Accès au partage,Basse,4.38,Demande,14
+7 060,regule compte sap est bloqué,regule compte sap est bloqué,Autre,Basse,3.38,Demande,5
+7 624,demande de création de compte sur lims pour salwa haiaraoui,demande de création de compte sur lims pour salwa haiaraoui,Création compte Lims,Basse,5.825,Demande,10
+6 989,reintialisation mdp sap,reintialisation mdp sap,MDP SAP,Basse,5.825,Demande,3
+7 408,sécurité des comptes,sécurité des comptes,Bureautique/Incident,Basse,8.82,Demande,3
+7 340,problème d'accés au partage pour mme ouafae alaoui ismaili,problème d'accés au partage pour mme ouafae alaoui ismaili,Accès au partage,Basse,51.5,Incident,9
+7 617,demande relative ã l'installation du nouveau pc pour ilham belamghari,demande relative ã l'installation du nouveau pc pour ilham belamghari,Affectation PC,Basse,12.92,Demande,10
+7 457,demande de changement laptop kawtar,demande de changement laptop kawtar,Laptop/Request,Basse,21.7,Demande,5
+7 383,demande d'accès ã l'imprimante,demande d'accès ã l'imprimante,Accessoires/Request,Basse,7.52,Demande,4
+7 335,accès partage contrôle interne,accès partage contrôle interne,Accès au partage,Basse,43.55,Demande,4
+7 271,demande de donner l'accès en lecture et écriture ã khadija,demande de donner l'accès en lecture et écriture ã khadija,Accès au partage,Basse,9.87,Demande,10
+7 560,demande de changement poste téléphonique,demande de changement poste téléphonique,Utilitaires/Request,Basse,12.0,Demande,5
+7 032,regule crée le projet rovamycine sur citrix,regule crée le projet rovamycine sur citrix,Autre,Basse,1.43,Demande,7
+7 375,imprimante ma44,imprimante ma44,Impressions & Scanner,Basse,15.38,Incident,2
+6 996,manque réseau wifi,manque réseau wifi,Laptop/Request,Basse,8.62,Incident,3
+7 627,demande créer un nouveau partage activité_lcq sur le serveur cazsfsp02,demande créer un nouveau partage activité_lcq sur le serveur cazsfsp02,Accès au partage,Basse,2.03,Demande,10
+7 503,problème démarrage du poste,problème démarrage du poste,Impressions Scanner Request,Basse,34.23,Incident,4
+7 588,problème accès partage,problème accès partage,Accès au partage,Basse,1.58,Incident,3
+7 488,demande d'identification hostnames ã identifer avec leurs ip,demande d'identification hostnames ã identifer avec leurs ip,Accessoires/Request,Basse,6.9,Demande,8
+7 276,régularisation demande créer le projet diosmine compactee sur citrix 2025 pour mp,régularisation demande créer le projet diosmine compactee sur citrix 2025 pour mp,Création de projet,Basse,5.825,Demande,12
+7 605,demande de donner l'accès avec lecture et modification comos_pub,demande de donner l'accès avec lecture et modification comos_pub,Accès au partage,Basse,4.75,Demande,9
+7 239,régularisation demande de créer le projet metasulfobenzoat_prednisolon24 sur citrix 2025 mp,régularisation demande de créer le projet metasulfobenzoat_prednisolon24 sur citrix 2025 mp,Création de projet,Basse,5.825,Demande,11
+7 021,problème d'impression pour mme ikhlichi aicha,problème d'impression pour mme ikhlichi aicha,Impressions & Scanner/Incident,Basse,6.83,Incident,6
+7 674,aicha ikhrichi peut pas accéder ã onedrive aicha ikhrichi peut pas accéder ã onedrive,aicha ikhrichi peut pas accéder ã onedrive,Autre,Moyenne,5.825,Incident,14
+7 122,regule crée projet diovenor cp,regule crée projet diovenor cp,Autre,Basse,0.57,Demande,5
+7 130,problème edition des factures sanofi,problème edition des factures sanofi,Applications,Basse,88.58,Incident,5
+7 600,demande de création d'un compte active directory pour katoui zineb,demande de création d'un compte active directory pour katoui zineb,Autre,Basse,2.18,Demande,10
+7 030,imprimantes de tickets 44 47 et 41 en panne,imprimantes de tickets 44 47 et 41 en panne,Impressions & Scanner/Incident,Basse,1.55,Incident,9
+6 945,regule demande d'active les channels ci-dessous du projet simvastatine_maphar_2024 deux séquences la raison changement au niveau de la méthode process imp d ã la place de imp inc 2,regule demande d'active les channels ci-dessous du projet simvastatine_maphar_2024 deux séquences la raison changement au niveau de la méthode process imp d ã la place de imp inc 2,Création de projet,Basse,4.17,Demande,29
+6 943,regule créer le projet le projet zolpidem tartrate sur citrix 2025 pour mp,regule créer le projet le projet zolpidem tartrate sur citrix 2025 pour mp,Autre,Basse,7.8,Demande,13
+6 951,problème téléphone fixe,problème téléphone fixe,Applications,Basse,11.3,Incident,3
+7 080,demande de création d'un compte active directory pour zaoui youness,demande de création d'un compte active directory pour zaoui youness,Création compte AD,Basse,24.95,Demande,10
+7 597,d'ajouter svp ikrame gentour ã la liste de diffusion des adresses email ci-dessous lst-ma-3643-cas-adv-maphar cfao com adv_maphar maphar ma,d'ajouter svp ikrame gentour ã la liste de diffusion des adresses email ci-dessous lst-ma-3643-cas-adv-maphar cfao com adv_maphar maphar ma,Utilitaires/Request,Basse,0.77,Demande,19
+7 270,demande de récupération mot de passe sap login i000139 ismail aitidir,demande de récupération mot de passe sap login i000139 ismail aitidir,accès SAP,Basse,0.18,Demande,11
+6 979,demande de création compte ad pour mme elmami rabiaa,demande de création compte ad pour mme elmami rabiaa,Création compte AD,Basse,10.55,Demande,9
+7 104,demande de réinitialisation mot de passe sap,demande de réinitialisation mot de passe sap,Compte SAP,Basse,5.825,Demande,7
+7 448,problème d'ouverture fichier sharepoint,problème d'ouverture fichier sharepoint,Applications,Basse,65.3,Incident,4
+6 978,demande de création compte ad pour aboutarik salma,demande de création compte ad pour aboutarik salma,Création compte AD,Basse,11.85,Demande,8
+7 009,demande de accès répertoire partagé crédit management,demande de accès répertoire partagé crédit management,Autre,Basse,14.7,Demande,7
+7 207,demande d'accorder ã chakir said un accès en lecture et en modification aux partages réseau,demande d'accorder ã chakir said un accès en lecture et en modification aux partages réseau,Accès au partage,Basse,11.37,Demande,15
+7 134,demande de création d'un compte active directory pour khammal rim,demande de création d'un compte active directory pour khammal rim,Création compte AD,Basse,1.47,Demande,10
+7 338,outlook est déconnecté,outlook est déconnecté,Bureautique/Incident,Basse,4.63,Incident,3
+7 392,téléphone fixe hors service,téléphone fixe hors service,Applications,Très haute,44.27,Incident,4
+7 067,accès partage - fichier aed,accès partage - fichier aed,Accès au partage,Basse,2.78,Demande,5
+7 641,demande de création d'un compte active directory pour ouaadoud imad,demande de création d'un compte active directory pour ouaadoud imad,Création de projet,Basse,1.5,Demande,10
+7 160,demande de changement de bande description demande de changement de bande nom de l'application matériels bande inf supp détaillé bande téléphone emplacement et numéro de bureau site zenata ou ain sebaa,demande de changement de bande,Changement de bande,Basse,15.85,Demande,31
+7 121,demande de création d'un compte active directory pour hdi fatim zahra,demande de création d'un compte active directory pour hdi fatim zahra,Création compte AD,Basse,11.1,Demande,11
+7 265,demande accès partage,demande accès partage,Accès au partage,Basse,0.68,Demande,3
+7 409,problèmes informatiques,problèmes informatiques,Accès scanner,Basse,32.63,Incident,2
+7 556,problème d'accès a onedrive,problème d'accès a onedrive,Applications,Basse,0.38,Incident,4
+6 942,demande de création d'un compte active directory pour m schamel mohamed,demande de création d'un compte active directory pour m schamel mohamed,Applications,Basse,17.57,Demande,11
+7 555,réparation des deux tablettes,réparation des deux tablettes,Utilitaires/Incident,Basse,20.8,Incident,4
+7 189,regule déblocage cession sap,regule déblocage cession sap,accès SAP,Basse,5.02,Demande,4
+7 678,telephone en panne,telephone en panne,Applications,Basse,5.825,Incident,3
+7 221,problème réseau,problème réseau,Connexion Réseau,Basse,9.4,Incident,2
+6 966,demande de changement de bande description demande de changement de bande nom de l'application matériels bande inf supp détaillé bande téléphone emplacement et numéro de bureau site zenata ou ain sebaa,demande de changement de bande,Changement de bande,Basse,11.28,Demande,31
+7 640,demande de création d'un compte active directory pour laghzoui rajaa,demande de création d'un compte active directory pour laghzoui rajaa,Création compte AD,Basse,1.3,Demande,10
+7 643,probléme au niveau du pc unité central,probléme au niveau du pc unité central,Matériel/Incident,Basse,5.825,Incident,7
+6 990,demande de prolongation compte sap walid eloudiyi,demande de prolongation compte sap walid eloudiyi,Compte SAP,Basse,5.825,Demande,7
+7 544,completer la configuration du nouveau laptop de mohcine ouajji compléter la configuration du nouveau laptop destiné ã m mohcine,completer la configuration du nouveau laptop de mohcine ouajji,Autre,Moyenne,47.45,Incident,19
+7 120,demande de création d'un compte active directory pour mbirik hibatallah,demande de création d'un compte active directory pour mbirik hibatallah,Création compte AD,Basse,11.13,Demande,10
+7 651,création compte ad el abdellaoui rachid,création compte ad el abdellaoui rachid,Création compte AD,Basse,1.37,Demande,6
+7 677,compte windows est verrouillé pour youssef bahaddi déverrouillage du compte windows pour youssef bahaddi,compte windows est verrouillé pour youssef bahaddi,Autre,Moyenne,5.825,Incident,14
+7 585,compte windows bloqué,compte windows bloqué,accès Windows,Basse,4.45,Incident,3
+6 922,demande de créer les projets suivants dans le répertoire dev citrix,demande de créer les projets suivants dans le répertoire dev citrix,Création de projet,Basse,5.825,Demande,11
+7 413,problème wifi zone production,problème wifi zone production,Laptop/Request,Basse,11.87,Incident,4
+7 358,regule créer le projet ketoderm creme pf 2025,regule créer le projet ketoderm creme pf 2025,Autre,Basse,44.9,Demande,8
+7 363,intervention urgente douchette de tablette en panne gare 4,intervention urgente douchette de tablette en panne gare 4,Impressions & Scanner/Incident,Basse,16.47,Incident,9
+7 552,demande de réinitialisation mot de passe cfao,demande de réinitialisation mot de passe cfao,MDP CFAO,Basse,0.18,Demande,7
+7 123,régularisation demande de créer sur swift 2025 projet depakine cp,régularisation demande de créer sur swift 2025 projet depakine cp,Accès au projet,Basse,5.825,Demande,10
+7 646,demande accès partage achat,demande accès partage achat,Accès au partage,Basse,2.5,Demande,4
+7 625,problèmes techniques sur mon pc ayoub sadkou,problèmes techniques sur mon pc ayoub sadkou,Autre,Moyenne,27.3,Incident,7
+7 284,demande de création compte ad_kholoud imane,demande de création compte ad_kholoud imane,Création compte AD,Basse,1.48,Demande,6
+6 977,demande de création compte ad pour tarnoun chaimaa,demande de création compte ad pour tarnoun chaimaa,Création compte AD,Basse,12.32,Demande,8
+7 124,problème d'aaccès au partage,problème d'aaccès au partage,Accès au partage,Basse,6.08,Incident,4
+7 086,demande de création d'un compte active directory pour m chadli ali,demande de création d'un compte active directory pour m chadli ali,Création compte AD,Basse,17.18,Demande,11
+7 127,demande de changement de bande description demande de changement de bande nom de l'application matériels bande inf supp détaillé bande téléphone emplacement et numéro de bureau site zenata ou ain sebaa email,demande de changement de bande,Changement de bande,Basse,4.63,Demande,32
+6 993,demande de changement de bande description demande de changement de bande nom de l'application matériels changement de bande inf supp détaillé changement de bande téléphone emplacement et numéro de bureau site zenata ou ain sebaa,demande de changement de bande,Changement de bande,Basse,11.25,Demande,35
+7 378,création compte ad_elazzaoui abdellah,création compte ad_elazzaoui abdellah,Création compte AD,Basse,16.43,Demande,4
+7 399,réinstallation des appareils téléphoniques,réinstallation des appareils téléphoniques,Utilitaires/Request,Basse,35.33,Demande,4
+7 380,accès dossier delais _ t hamam relance,accès dossier delais _ t hamam relance,Autre,Basse,1.32,Demande,7
+7 177,demande de changement de bande description demande de changement de bande nom de l'application matériels bande inf supp détaillé bande téléphone emplacement et numéro de bureau site zenata ou ain sebaa,demande de changement de bande,Changement de bande,Basse,6.25,Demande,31
+7 428,demande d'activation compte ad_dazzazi,demande d'activation compte ad_dazzazi,Compte AD,Basse,2.17,Demande,4
+7 275,demande d'accès au partage analyse_de_risque cazsfsp02 n,demande d'accès au partage analyse_de_risque cazsfsp02 n,Accès au partage,Basse,1.75,Demande,7
+6 988,création compte ad_taleb elmehdi,création compte ad_taleb elmehdi,Création compte AD,Basse,9.12,Demande,4
+7 151,regule demande de créer les projets cordarone 200mg_cp et eucalyptine sirop sur citrix,regule demande de créer les projets cordarone 200mg_cp et eucalyptine sirop sur citrix,Utilitaires/Request,Basse,9.6,Demande,13
+7 520,demande de restauration de ce fichier svp cassfsp01 reclamation sanofi reclamations_2025 reclamations__2023 reclamations___2024,demande de restauration de ce fichier svp cassfsp01 reclamation sanofi reclamations_2025 reclamations__2023 reclamations___2024,Sauvegarde,Basse,29.77,Demande,13
+6 984,demande de création compte ad pour mmdouhaymi aymen,demande de création compte ad pour mmdouhaymi aymen,Création compte AD,Basse,10.18,Demande,8
+7 524,ajout d'un nouveau switch,ajout d'un nouveau switch,Connexion Réseau,Basse,35.0,Demande,4
+7 537,problème d acces partage fp reglementaire mohammed ismaili,problème d acces partage fp reglementaire mohammed ismaili,Accès au partage,Basse,0.57,Incident,8
+7 093,ajout partage securite pub,ajout partage securite pub,Accès au partage,Basse,32.27,Demande,4
+6 975,demande de création compte ad pour bouhnas hajar,demande de création compte ad pour bouhnas hajar,Création compte AD,Basse,12.38,Demande,8
+7 144,demande de configuration du poste outlook pour mme el kajjam nadia description demande de configuration du poste outlook nom de l'application matériels outlook inf supp détaillé outlook téléphone emplacement et numéro de bureau site zenata ou ain sebaa email,demande de configuration du poste outlook pour mme el kajjam nadia,Desktop/Request,Basse,148.83,Demande,39
+7 579,demande de création compte ad_ alaoui soulaimani kenza,demande de création compte ad_ alaoui soulaimani kenza,Compte AD,Basse,4.6,Demande,8
+7 201,probléme connexion réseau,probléme connexion réseau,Connexion Réseau,Basse,37.72,Incident,3
+7 398,failed cas_cassfsp01_prd_bkp_tape 1 machines 1 failed,failed cas_cassfsp01_prd_bkp_tape 1 machines 1 failed,Sauvegarde,Basse,19.63,Incident,6
+7 366,demande de configurer vlan 114 sur le port switch sur lequel connecté cet équipement,demande de configurer vlan 114 sur le port switch sur lequel connecté cet équipement,Connexion internet,Basse,8.6,Demande,14
+6 961,demande de l'accès aux partages ci-dessous en lecture seule cazsfsp01 ba_amm_sanofi maphar_t hamam cazsfsp01 ba_stab t hamam,demande de l'accès aux partages ci-dessous en lecture seule cazsfsp01 ba_amm_sanofi maphar_t hamam cazsfsp01 ba_stab t hamam,Accès au partage,Basse,3.7,Demande,17
+7 290,accés partage instruction_de_fabrication_t hamam,accés partage instruction_de_fabrication_t hamam,Accès au partage,Basse,6.18,Demande,4
+7 614,problème d'accès messagerie,problème d'accès messagerie,Bureautique/Incident,Basse,3.65,Incident,3
+7 294,demande de donner l'accès aux partagex ba amm et ba stab,demande de donner l'accès aux partagex ba amm et ba stab,Accès au partage,Basse,25.7,Demande,11
+7 362,régularisation demande de crée vermox_cp_2025,régularisation demande de crée vermox_cp_2025,Création de projet,Basse,5.825,Demande,5
+7 509,demande d'accès au partage cazsfsp01 aed_pub,demande d'accès au partage cazsfsp01 aed_pub,Accès au partage,Basse,5.825,Demande,6
+7 185,ports réseau défectueux,ports réseau défectueux,Réseau / Connexion internet,Basse,18.37,Incident,3
+6 919,creation projet sur citrix 2025,creation projet sur citrix 2025,Création de projet,Basse,5.825,Demande,5
