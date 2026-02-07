@@ -2,14 +2,14 @@
 __pycache__/
 *.py[cod]
 
-# Data
-*.csv
-*.json
-*.xlsx
+# Data (garder les CSV pour le projet)
+# *.csv
+# *.json
+# *.xlsx
 
-# Models
-*.pkl
-*.joblib
+# Models (garder les .pkl pour partager les modèles entraînés)
+# *.pkl
+# *.joblib
 
 # Notebooks
 .ipynb_checkpoints/
