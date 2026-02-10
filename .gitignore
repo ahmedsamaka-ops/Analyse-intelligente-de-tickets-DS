@@ -2,6 +2,20 @@
 __pycache__/
 *.py[cod]
 
+# Environment variables (contiennent des clés API sensibles)
+.env
+
+# Vector database (fichiers binaires générés)
+simple_vector_db/
+chroma_db/
+data/chroma_db/
+data/simple_db/
+
+# LLM status files
+llm_status.txt
+rag_template_test_results.txt
+ask_bot_test_results.txt
+
 # Data (garder les CSV pour le projet)
 # *.csv
 # *.json
